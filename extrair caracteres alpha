@@ -1,0 +1,2 @@
+sed -i 's/[A-Za-z]//g' removeC
+
